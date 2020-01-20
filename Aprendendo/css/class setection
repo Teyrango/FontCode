@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+     <head>
+	     <meta charset = "utf-8">
+		 <title>CSS:Selecao por classe</title>
+		 <style>
+		     .teste{
+			     background-color:blue;
+			  }
+		 </style>
+	 </head>
+	 <body>
+	     <p class="teste"> TESTANDO TESTANDO</p>
+		 
+		 
+		 <h1 class="teste">Outro teste</h1>
+		 
+		 
+		 
+		 <h3 class="teste"> MAIS UM TESTE</h3>
+	</body>
+</html>
