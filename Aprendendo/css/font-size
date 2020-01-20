@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+     <head>
+	     <meta charset="utf-8">
+		 <title>Font Size</title>
+		 <style>
+		  body{
+		     font-size:11px;
+		 }
+		 h1{
+		     color:orange;
+			 font-size:1em;
+		 }
+		 h2{
+		     color:orange;
+			 font-size:2em;
+		 }
+		 </style>
+	 <head>
+	 <body>
+	     <h2>EU QUERO CAFÉ</h2>
+		 <h1>EU QUERO CAFÉ</h1>
+	 </body>
+</html>
