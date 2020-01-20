@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+     <head>
+	     <meta charset="utf-8">
+		 <title>CSS:font-family</title>
+		 <style>
+		     h1{
+			     color:orange;
+				 font-family:Courier;
+			 }
+		 </style>
+     </head>
+     <body>
+      	 <h1> TESTE TESTE TESTE DE FONTE</h1>
+	 </body>
+	 
+</html>
