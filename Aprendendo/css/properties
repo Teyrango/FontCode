@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+     <head>
+	     <meta charset="utf-8">
+		 <title>Propriedades</title>
+		 <style>
+		     .teste{
+			     background-color:yellow;
+				 font-family:fantasy;
+				 font-weight:bold;
+				 font-size:30px;
+				 font-style:italic;
+				 line-height:2.4em;
+				 text-align:center;
+				 text-decoration:underline;
+			 }
+			 a{
+			     text-decoration:none;
+			 }
+		 </style>
+	 </head>
+	 <body>
+	    <p class="teste">TESTE TESTE TESTE<br>
+		TESTE TESTE TESTE<br>TESTE TESTE TESTE<br>
+		TESTE TESTE TSTE TESTE TESTE TESTE TESTE TESTE <p>
+	 </body>
+</html>
+		
